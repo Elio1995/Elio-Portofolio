@@ -1,6 +1,6 @@
 # React Portfolio, multiple pages with dark mode
 
-The portofolio is done by React + SCSS + Material UI
+The portfolio is done by React + SCSS + Material UI
 
 ## Features
 
