@@ -1,6 +1,8 @@
 # React Portfolio, multiple pages with dark mode
 
-## features
+This project is done by React + SCSS + Material UI
+
+## Features
 
 🌑 Dark Mode Toggler
 
