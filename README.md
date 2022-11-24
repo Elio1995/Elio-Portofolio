@@ -16,6 +16,12 @@ The portfolio is done by React + SCSS + Material UI
 
 ---
 
+### Links
+- [Live Site](https://elio-portofolio.vercel.app/)
+- [Solution](https://github.com/Elio1995/Elio-Portofolio)
+
+---
+
 ## getting started
 
 ## how to use
