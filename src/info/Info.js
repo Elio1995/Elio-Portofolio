@@ -101,8 +101,8 @@ export const info = {
         },
         {
             title: "Portfolio",
-            live: "https://github.com/Elio1995",
-            source: "https://github.com/Elio1995",
+            live: "https://elio-portofolio.vercel.app",
+            source: "https://github.com/Elio1995/Elio-Portofolio",
             image: mock5
         },
     ]
