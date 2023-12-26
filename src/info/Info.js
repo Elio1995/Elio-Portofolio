@@ -78,7 +78,7 @@ export const info = {
         {
             title: "Calculator App",
             live: "https://earnest-dusk-c9f2a9.netlify.app/",
-            source: "https://github.com/Elio1995/static-job-listings-master", 
+            source: "https://github.com/Elio1995/calculator-app", 
             image: mock1
         },
         {
@@ -89,8 +89,8 @@ export const info = {
         },
         {
             title: "Expenses Chart",
-            live: "https://paytonpierce.dev",
-            source: "https://expenses-chart-lovat.vercel.app/",
+            live: "https://expenses-chart-lovat.vercel.app/",
+            source: "https://github.com/Elio1995/Expenses-Chart",
             image: mock3
         },
         {
