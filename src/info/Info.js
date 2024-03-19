@@ -21,7 +21,7 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in Albania'
+            text: 'based in Canada'
         },
         {
             emoji: "💼",
